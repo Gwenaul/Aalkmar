@@ -1,5 +1,4 @@
-![Image](https://github.com/user-attachments/assets/9e380bc1-864f-4052-9beb-f32e0a125666)
-![Image](https://github.com/user-attachments/assets/55a922e1-638a-4358-b8c3-64a2b5aaf59b)
+![Image](https://github.com/user-attachments/assets/bc10dfcd-57da-44e1-9364-349f2a51163d)
 
 https://www.gwenaelbodet.com/projets/aalkmar/
 
