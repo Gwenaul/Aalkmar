@@ -1,11 +1,8 @@
-
 import fullscreen.*;
 import japplemenubar.*;
 import processing.video.*;
 import processing.serial.*;
 import cc.arduino.*;
-
-
 
 FullScreen fs;
 
@@ -17,7 +14,6 @@ int m = 0;
 
 void setup() {
 
- 
   size(720, 576, P2D);
   fs = new FullScreen(this);
   fs.enter(); 
